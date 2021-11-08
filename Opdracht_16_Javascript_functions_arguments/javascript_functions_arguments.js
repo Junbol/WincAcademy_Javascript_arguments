@@ -1,6 +1,6 @@
 console.log("Javascript and Node is working");
 
-// FUNCTIONS > ARGUMENTS > PAITING WALLS
+// FUNCTIONS > ARGUMENTS > PAINTING WALLS
 
 const paintWall = function (color) {
   console.log("The wall has been painted " + color);
