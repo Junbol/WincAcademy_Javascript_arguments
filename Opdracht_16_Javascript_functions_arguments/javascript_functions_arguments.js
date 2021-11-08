@@ -1,4 +1,4 @@
-console.log("Javascript and Node is working");
+console.log("Javascript and Node are working");
 
 // FUNCTIONS > ARGUMENTS > PAINTING WALLS
 
